@@ -17,3 +17,18 @@ body {
     margin: -3%;
 }
 
+::-webkit-scrollbar{
+    background: none;
+    width: .5vw;
+}
+
+::-webkit-scrollbar-button{
+    display: none;
+}
+
+::-webkit-scrollbar-thumb{
+    color: #FDD835;
+    background-color: #FDD835;
+    border-radius: 20px;
+}
+
